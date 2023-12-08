@@ -1,7 +1,7 @@
 ## Creation of AWS EC2 Instances
 * Sign Up to your AWS Free tier Account . The AWS Management Console Will Appear.
 
-  ![img](../img/Ec2/AWS-management-Console.png)
+  ![img](https://github.com/harsh556/Micro-service-Architecture/blob/4af26440ee7d8cfbf0a9ab0b380abf92b2972a11/img/Ec2/AWS-management-Console.png)
 
 * In the search Panel,Type Ec2 to search for the Ec2 Service.
 
