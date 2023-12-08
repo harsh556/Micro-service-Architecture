@@ -3,7 +3,6 @@
 
   ![img](../img/Ec2/AWS-management-Console.png)
 
-
 * In the search Panel,Type Ec2 to search for the Ec2 Service.
 
   ![img](../img/Ec2/Searching-EC2.png)
