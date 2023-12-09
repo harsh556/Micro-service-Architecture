@@ -25,4 +25,4 @@
 
 ### Terraform Script has deployed three servers(EC2 Instances) that'll act as three master nodes of the k3s Cluster. 
 
-  For Different clusters as per we require We can simply change the resource names from k3s-master-1 and so on to the new nodes as per the Micro-service to be deployed on the new clusters for better understanding and Convinience.
+  For Different clusters as per we require, We can simply change the resource names from k3s-master-1 and so on to the new nodes as per the Micro-service to be deployed on the new clusters for better understanding and Convinience.
