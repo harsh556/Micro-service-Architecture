@@ -6,7 +6,7 @@
 
 * In the search Panel,Type Ec2 to search for the Ec2 Service.
 
-  ![img](../img/Ec2/Searching-EC2.png)
+  ![img](https://raw.githubusercontent.com/harsh556/Micro-service-Architecture/img/Ec2/Searching-EC2.png)
 
 * Click on Ec2 to go the Ec2 Console
 
