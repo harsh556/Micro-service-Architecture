@@ -1,0 +1,12 @@
+**For Creating Main Master Node -** 
+
+sudo curl -sfL https://get.k3s.io | INSTALL_K3S_VERSION="v1.25.5+k3s1" K3S_NODE_NAME=k3s-Master-1 sh -s - server --token=dfXagzaueZM8Ye --cluster-init
+
+**For Creating 2nd and 3rd Master Node -**
+
+sudo curl -sfL https://get.k3s.io | K3S_NODE_NAME=k3s-Master-2 INSTALL_K3S_VERSION="v1.25.5+k3s1" sh -s - server --server https://172.31.47.213:6443 -- token=dfXagzaueZM8Ye
+
+
+**To see all the nodes in the Cluster -**
+
+kubectl get node
