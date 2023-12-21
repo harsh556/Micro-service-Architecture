@@ -27,5 +27,10 @@ Example :
 
 * Voting app :-
 
+![catvsdog](https://github.com/harsh556/Micro-service-Architecture/assets/114024228/a51d4d93-d508-42df-b833-6c78b6ad82e9)
+
 
 * Result app :-
+
+![result-catvsdog](https://github.com/harsh556/Micro-service-Architecture/assets/114024228/8d7db1f1-a629-4121-8457-cb4e72cc652d)
+
